@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1800 | [CF946D](https://codeforces.com/problemset/problem/946/D) | For each day, if you skip $k$ lessons, there is a maximum amount of time you can save. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/09/0930/solution/cf946d.md) |
-| 1900 | [CF935D](https://codeforces.com/problemset/problem/935/D) | Again, if a string is smaller than the other, we should let their prefix be the same and the next letter be smaller. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/09/0930/solution/cf935d.md) |
+| 1800 | [CF325B](https://codeforces.com/problemset/problem/325/B) | Calculate the number of games when there is $n$ players. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/10/1007/solution/cf325b.md) |
+| 1900 | [CF865B](https://codeforces.com/problemset/problem/865/B) | Use greedy approach. If you order too many pizzas, adjust your solution. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/10/1007/solution/cf865b.md) |
